@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+header img {
+    width: 200px;
+    height: 200px;
+}
+h3 {
+    background-color: lightgray;
+    padding-left: 5px;
+}
+p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.institute-name {
+    color: #069ef7;
+}
